@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useIsMobile } from "@/hooks/use-mobile";
 import { Search, ArrowUpDown, SlidersHorizontal, MapPin } from "lucide-react";
 import { Field } from "@/data/fields";
 import FieldCard from "./FieldCard";
@@ -32,6 +33,7 @@ const SidePanel = ({
   onDeleteField,
   onEditBoundary,
 }: SidePanelProps) => {
+  const isMobile = useIsMobile();
   const [search, setSearch] = useState("");
   const [sortBy, setSortBy] = useState<"name" | "area" | "ndvi">("name");
   const [filterCrop, setFilterCrop] = useState<string | null>(null);
@@ -41,7 +43,7 @@ const SidePanel = ({
   // Detail view
   if (detailField) {
     return (
-      <div className="w-[320px] h-full bg-card/95 backdrop-blur-md border-l border-border flex flex-col animate-fade-in">
+      <div className={`${isMobile ? "w-full" : "w-[320px]"} h-full bg-card/95 backdrop-blur-md border-l border-border flex flex-col animate-fade-in`}>
         <FieldDetailView
           field={detailField}
           onBack={onBackFromDetail}

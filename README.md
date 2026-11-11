@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/agrisense-logo.svg" alt="AgriSense" width="150">
+<img src="public/agrisense-logo.png" alt="AgriSense" width="150" height="150">
 
 # 🌾 AgriSense
 

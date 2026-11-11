@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="agrisense-main/public/agrisense-logo.png" alt="AgriSense" width="160" height="160">
+<img src="AgriSense-Main/public/agrisense-logo.png" alt="AgriSense" width="160" height="160">
 
 # 🌾 AgriSense
 
@@ -11,7 +11,7 @@
 [![BattleVerse 2026](https://img.shields.io/badge/BattleVerse_2026-Iqra_University-D9B84C?style=for-the-badge&labelColor=1C2A24)](https://github.com/agrisense-dev/AgriSense)
 [![Battle of Intelligence](https://img.shields.io/badge/Track_2-Battle_of_Intelligence-6FC78F?style=for-the-badge&labelColor=1C2A24)](#-battleverse-2026-alignment)
 [![AI for Green Finance](https://img.shields.io/badge/AI_for_Green_Finance-Green_FinTech-A8E063?style=for-the-badge&labelColor=1C2A24)](#-battleverse-2026-alignment)
-[![License: MIT](https://img.shields.io/badge/License-MIT-6FC78F?style=for-the-badge&labelColor=1C2A24)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6FC78F?style=for-the-badge&labelColor=1C2A24)](AgriSense-Main/LICENSE)
 
 <br>
 
@@ -220,24 +220,24 @@ sequenceDiagram
 
 <table>
 <tr>
-<td width="50%"><img src="public/Screenshot%202026-08-23%201.56.02%20AM.png" alt="Draw the field"></td>
-<td width="50%"><img src="public/Screenshot%202026-08-22%203.12.58%20PM.png" alt="Climate analytics"></td>
+<td width="50%"><img src="AgriSense-Main/public/Screenshot%202026-08-23%201.56.02%20AM.png" alt="Draw the field"></td>
+<td width="50%"><img src="AgriSense-Main/public/Screenshot%202026-08-22%203.12.58%20PM.png" alt="Climate analytics"></td>
 </tr>
 <tr>
 <td align="center"><b>🖊️ Draw the field</b><br>One polygon. That's all it takes.</td>
 <td align="center"><b>🌦️ Climate history, instantly</b><br>Rain, temperature, evapotranspiration — a full year.</td>
 </tr>
 <tr>
-<td width="50%"><img src="public/Screenshot%202026-08-23%201.56.12%20AM.png" alt="Analytics dashboard"></td>
-<td width="50%"><img src="public/Screenshot%202026-08-22%203.13.11%20PM.png" alt="AI crop plan on map"></td>
+<td width="50%"><img src="AgriSense-Main/public/Screenshot%202026-08-23%201.56.12%20AM.png" alt="Analytics dashboard"></td>
+<td width="50%"><img src="AgriSense-Main/public/Screenshot%202026-08-22%203.13.11%20PM.png" alt="AI crop plan on map"></td>
 </tr>
 <tr>
 <td align="center"><b>📊 Full analytics dashboard</b><br>NDVI, land use, suitability, air & water quality.</td>
 <td align="center"><b>🤖 Guarded crop plan, on the map</b><br>Every dot is a plant — placed by rules, explained by AI.</td>
 </tr>
 <tr>
-<td width="50%"><img src="public/Screenshot%202026-08-23%201.57.09%20AM.png" alt="Zone allocation"></td>
-<td width="50%"><img src="public/Screenshot%202026-08-23%201.57.17%20AM.png" alt="Crop calendar"></td>
+<td width="50%"><img src="AgriSense-Main/public/Screenshot%202026-08-23%201.57.09%20AM.png" alt="Zone allocation"></td>
+<td width="50%"><img src="AgriSense-Main/public/Screenshot%202026-08-23%201.57.17%20AM.png" alt="Crop calendar"></td>
 </tr>
 <tr>
 <td align="center"><b>🥧 Zone allocation + impact</b><br>Wheat 35% · Walnut 33% · Maize 32% → 26% water saved, +24% revenue.</td>
@@ -460,7 +460,7 @@ flowchart LR
 
 ## 📜 License
 
-[MIT](LICENSE) — free to use, learn from, and build on.
+[MIT](AgriSense-Main/LICENSE) — free to use, learn from, and build on.
 
 <div align="center">
 
